@@ -1,6 +1,0 @@
-# prop
-ro.vendor.sensors.proximity=false
-ro.qti.sensors.proximity=false
-vendor.sensor.proximity_fusion.enabled=false
-
-
